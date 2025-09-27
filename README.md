@@ -1,6 +1,6 @@
 # 2D Object Detection on the KITTI Dataset using YOLOv8
 
-![Project Banner](https://miro.medium.com/v2/resize:fit:1400/1*J2x-A2yC-wA8q2_1J2-uVA.png)
+![Project Banner](./kitti_banner.png)
 
 This project implements a complete pipeline for training, validating, and running inference with a **YOLOv8** model for 2D object detection on the challenging **KITTI Vision Benchmark Suite**. The model is trained to detect and classify cars, pedestrians, and cyclists in real-world driving scenarios.
 
