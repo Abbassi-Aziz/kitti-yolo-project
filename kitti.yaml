@@ -1,0 +1,8 @@
+
+train: ./datasets/train/images
+
+val: ./datasets/val/images
+
+nc: 3
+
+names: ['Car','Pedestrian','Cyclist']
